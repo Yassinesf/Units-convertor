@@ -1,0 +1,24 @@
+﻿<Window x:Class="UnitsConverter.VolumeConverter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Volume" Height="300" Width="400">
+    <Grid Background="#EEE3A3">
+        <Label Content="De" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,50,0,0"/>
+        <ComboBox Name="FromUnit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="50,80,0,0">
+            <ComboBoxItem Content="Litre"/>
+            <ComboBoxItem Content="Gallon"/>
+        </ComboBox>
+        <TextBox Name="FromValue" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="50,120,0,0"/>
+
+        <Label Content="Vers" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,50,50,0"/>
+        <ComboBox Name="ToUnit" HorizontalAlignment="Right" VerticalAlignment="Top" Width="100" Margin="0,80,50,0">
+            <ComboBoxItem Content="Litre"/>
+            <ComboBoxItem Content="Gallon"/>
+        </ComboBox>
+        <TextBox Name="ToValue" HorizontalAlignment="Right" VerticalAlignment="Top" Width="100" Margin="0,120,50,0" IsReadOnly="True"/>
+
+        <Button Content="Retour" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="100" Margin="50,0,0,20" Click="Retour_Click"/>
+        <Button Content="Convertir" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="100" Margin="0,0,50,20" Click="Convertir_Click"/>
+        <Label Content="Volume" HorizontalAlignment="Center" Margin="0,32,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.058,-0.227"/>
+    </Grid>
+</Window>

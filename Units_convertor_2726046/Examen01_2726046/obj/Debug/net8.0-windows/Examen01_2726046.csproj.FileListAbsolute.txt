@@ -1,0 +1,81 @@
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.exe
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.deps.json
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.runtimeconfig.json
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.dll
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.pdb
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\MainWindow.baml
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\MainWindow.g.cs
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\App.g.cs
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046_MarkupCompile.cache
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.g.resources
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.AssemblyInfoInputs.cache
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.AssemblyInfo.cs
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.csproj.CoreCompileInputs.cache
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.dll
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\refint\Examen01_2726046.dll
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.pdb
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.genruntimeconfig.cache
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\ref\Examen01_2726046.dll
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Longueur.baml
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Poids.baml
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Temperature.baml
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Volume.baml
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Longueur.g.cs
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Poids.g.cs
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Temperature.g.cs
+Y:\Developpement d'app Bureau\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Volume.g.cs
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.exe
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.deps.json
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.runtimeconfig.json
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.dll
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.pdb
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Longueur.baml
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Poids.baml
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Temperature.baml
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Volume.baml
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Longueur.g.cs
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Poids.g.cs
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Temperature.g.cs
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Volume.g.cs
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046_MarkupCompile.cache
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.g.resources
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.AssemblyInfoInputs.cache
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.AssemblyInfo.cs
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.csproj.CoreCompileInputs.cache
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.dll
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\refint\Examen01_2726046.dll
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.pdb
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.genruntimeconfig.cache
+C:\Users\sfair\OneDrive\Desktop\Examen01_2726046\Examen01_2726046\obj\Debug\net8.0-windows\ref\Examen01_2726046.dll
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.exe
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.deps.json
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.runtimeconfig.json
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.dll
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\bin\Debug\net8.0-windows\Examen01_2726046.pdb
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Longueur.baml
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Poids.baml
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Temperature.baml
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Volume.baml
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Longueur.g.cs
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Poids.g.cs
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Temperature.g.cs
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Volume.g.cs
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046_MarkupCompile.cache
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.g.resources
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.AssemblyInfoInputs.cache
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.AssemblyInfo.cs
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.csproj.CoreCompileInputs.cache
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.dll
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\refint\Examen01_2726046.dll
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.pdb
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\Examen01_2726046.genruntimeconfig.cache
+C:\Users\sfair\OneDrive\Desktop\SESSION 03\App Bureau\Examen01_2726046 (1)\Examen01_2726046\obj\Debug\net8.0-windows\ref\Examen01_2726046.dll
