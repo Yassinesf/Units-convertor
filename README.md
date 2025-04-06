@@ -1,5 +1,5 @@
 # Units-convertor
-UnitsConvertor est une application graphique développée en WPF permettant de convertir facilement les unités de mesure les plus courantes
+UnitsConvertor est une application WPF intuitive qui permet de convertir facilement les principales unités de mesure : longueur, poids, volume et température. Grâce à une interface graphique simple et colorée, l’utilisateur peut accéder rapidement à chaque catégorie de conversion. Ce projet a été développé en C# / XAML et s’adresse aux étudiants, enseignants et professionnels ayant besoin d’un outil de conversion rapide et fiable.
 
 #Fonctionnalités principales 
 🔹 Volumes
